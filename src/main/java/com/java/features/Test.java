@@ -9,6 +9,8 @@ public class Test {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
+		
+		System.out.println("Commit testing");
 		File directory = new File("myfolder");
 	//	directory.mkdir();
 		
